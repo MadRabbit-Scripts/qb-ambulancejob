@@ -142,7 +142,7 @@ Config.CheckTime = 10
 Config.PainkillerInterval = 60 -- seconds
 
 --[[
-    GENERAL SETTINGS | THESE WILL AFFECT YOUR ENTIRE SERVER SO BE SURE TO SET THESE CORRECTLY
+    General SETTINGS | THESE WILL AFFECT YOUR ENTIRE SERVER SO BE SURE TO SET THESE CORRECTLY
     MaxHp : Maximum HP Allowed, set to -1 if you want to disable mythic_hospital from setting this
         NOTE: Anything under 100 and you are dead
     RegenRate :
